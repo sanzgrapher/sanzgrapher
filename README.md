@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Narayan Dhakal (@sanzgrapher)</h1>
+
+<h1 align="center">Hi 👋, I'm Narayan Dhakal (@sanzgrapher)
+</h1>
 <h3 align="center">A passionate frontend developer from Nepal 🇳🇵</h3>
 
+![GitHub metrics](https://metrics.lecoq.io/narayandhakal09)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayandhakal09&label=Profile%20views&color=0e75b6&style=flat" alt="narayandhakal09" /> </p>
+
+
+  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narayandhakal09" alt="narayandhakal09" /></a> </p>
 
@@ -22,11 +31,12 @@
 - ⚡ Fun fact **Follow At Your Own Risk**
 
 
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandhakal09&show_icons=true&locale=en&layout=compact" alt="narayandhakal09" />
+
+</p>
 
 
-
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandhakal09&show_icons=true&locale=en&layout=compact" alt="narayandhakal09" />
-
+  
 
 
 
