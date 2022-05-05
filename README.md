@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Narayan Dhakal (@sanzgrapher)
 </h1>
 <h3 align="center">A passionate frontend developer from Nepal 🇳🇵</h3>
-
-![GitHub metrics](https://metrics.lecoq.io/narayandhakal09)
+<!-- 
+![GitHub metrics](https://metrics.lecoq.io/narayandhakal09) -->
 
 
 
