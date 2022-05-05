@@ -31,9 +31,7 @@
 - ⚡ Fun fact **Follow At Your Own Risk**
 
 
- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandhakal09&show_icons=true&locale=en&layout=compact" alt="narayandhakal09" />
 
-</p>
 
 
   
@@ -42,6 +40,9 @@
 
 |<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandhakal09&" alt="narayandhakal09" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayandhakal09&show_icons=true&locale=en" alt="narayandhakal09" /> |
 | ------------- | ------------- |
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandhakal09&show_icons=true&locale=en&layout=compact" alt="narayandhakal09" />
+
+</p>
 
 
 
