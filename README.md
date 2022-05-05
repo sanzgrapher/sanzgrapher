@@ -21,6 +21,20 @@
 
 - ⚡ Fun fact **Follow At Your Own Risk**
 
+
+
+
+
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandhakal09&show_icons=true&locale=en&layout=compact" alt="narayandhakal09" />
+
+
+
+
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandhakal09&" alt="narayandhakal09" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayandhakal09&show_icons=true&locale=en" alt="narayandhakal09" /> |
+| ------------- | ------------- |
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/narayandhakal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="narayandhakal09" height="30" width="40" /></a>
@@ -36,16 +50,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sanzgrapher"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sanzgrapher" /></a></p><br><br>
 
-
-
-
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandhakal09&show_icons=true&locale=en&layout=compact" alt="narayandhakal09" />
-
-
-
-
-|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandhakal09&" alt="narayandhakal09" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayandhakal09&show_icons=true&locale=en" alt="narayandhakal09" /> |
-| ------------- | ------------- |
 
 
 
