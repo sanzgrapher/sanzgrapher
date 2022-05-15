@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/narayandhakal09" target="blank"><img src="https://img.shields.io/twitter/follow/narayandhakal09?logo=twitter&style=for-the-badge" alt="narayandhakal09" /></a> </p>
 
-- 🔭 I’m currently working on PHP MYSQLi [Padandas](https://padandas.com/) Complete Education for Nepali Padandas Students
+- 🔭 I’m currently working on PHP MYSQLi [Padandas](https://padandas.com/) Complete Education for Nepali Padandas Students [Padandas-Repo](padandas)
 
 - 🌱 I’m currently learning **Full-stack Dev, Android Dev,AWS,WEB3**
 
