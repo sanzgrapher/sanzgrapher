@@ -3,16 +3,16 @@
 </h1>
 
 <!-- 
-![GitHub metrics](https://metrics.lecoq.io/narayandhakal09) -->
+![GitHub metrics](https://metrics.lecoq.io/sanzgrapher) -->
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narayandhakal09&label=Profile%20views&color=0e75b6&style=flat" alt="narayandhakal09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzgrapher&label=Profile%20views&color=0e75b6&style=flat" alt="sanzgrapher" /> </p>
 
 
   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narayandhakal09" alt="narayandhakal09" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanzgrapher" alt="sanzgrapher" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/narayandhakal09" target="blank"><img src="https://img.shields.io/twitter/follow/narayandhakal09?logo=twitter&style=for-the-badge" alt="narayandhakal09" /></a> </p>
 
@@ -38,9 +38,9 @@
 
 
 
-|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandhakal09&" alt="narayandhakal09" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayandhakal09&show_icons=true&locale=en" alt="narayandhakal09" /> |
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzgrapher&" alt="sanzgrapher" />| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanzgrapher&show_icons=true&locale=en" alt="sanzgrapher" /> |
 | ------------- | ------------- |
- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandhakal09&show_icons=true&locale=en&layout=compact" alt="narayandhakal09" />
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanzgrapher&show_icons=true&locale=en&layout=compact" alt="sanzgrapher" />
 
 </p>
 
