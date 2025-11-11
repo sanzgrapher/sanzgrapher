@@ -16,19 +16,13 @@
 
 <p align="left"> <a href="https://twitter.com/narayandhakal09" target="blank"><img src="https://img.shields.io/twitter/follow/narayandhakal09?logo=twitter&style=for-the-badge" alt="narayandhakal09" /></a> </p>
 
-- 🔭 I’m currently working on PHP MYSQLi [Padandas](https://padandas.com/) Complete Education for Nepali Padandas Students [Padandas-Repo](padandas)
-
-- 🌱 I’m currently learning **Full-stack Dev, Android Dev,AWS,WEB3**
+- 🔭 I’m currently working on PHP Laravel
 
 - 👨‍💻 All of my projects are available at [narayandhakal.com.np](https://narayandhakal.com.np)
 
-- 📝 I regularly write articles on [blog.narayandhakal.com.np](https://blog.narayandhakal.com.np)
+- 📄 Know about my experiences [narayandhakal.com.np/resume](https://narayandhakal.com.np/)
 
-- 💬 Ask me about **c,c++,Html,css**
 
-- 📄 Know about my experiences [narayandhakal.com.np/resume](https://narayandhakal.com.np/resume)
-
-- ⚡ Fun fact **Follow At Your Own Risk**
 
 
 
