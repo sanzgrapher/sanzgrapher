@@ -9,7 +9,7 @@ I build practical web apps and developer tools with a strong focus on PHP and La
 - Python (project-level use)
 
 ### What I build
-- Laravel/Filament packages (ex: draggable modal, swippable notifications)
+- Laravel/Filament packages (ex: draggable modal, swipe-to-close notifications)
 - Full-stack web products and CMS/ecommerce projects
 - Applied ML projects like Nepali ANPR (number plate detection + character recognition)
 
